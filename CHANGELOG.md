@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-13
+
+- feat: implement JOIN operations interface
+
 ## 2026-05-11
 
 - chore: add project configuration
