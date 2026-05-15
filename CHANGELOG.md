@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-15
+
+- feat: implement ORDER BY interface
+
 ## 2026-05-13
 
 - feat: implement JOIN operations interface
