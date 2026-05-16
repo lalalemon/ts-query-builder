@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-16
+
+- wip: WHERE clauses module skeleton
+
 ## 2026-05-15
 
 - feat: implement ORDER BY interface
