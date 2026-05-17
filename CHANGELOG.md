@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-17
+
+- feat: basic SELECT queries functionality
+
 ## 2026-05-16
 
 - wip: WHERE clauses module skeleton
