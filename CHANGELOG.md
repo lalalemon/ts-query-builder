@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-18
+
+- feat: error handling for type inference
+
 ## 2026-05-17
 
 - feat: basic SELECT queries functionality
