@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-19
+
+- test: add initial test suite
+
 ## 2026-05-18
 
 - feat: error handling for type inference
