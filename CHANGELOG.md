@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-20
+
+- feat: improve SELECT queries handling
+
 ## 2026-05-19
 
 - test: add initial test suite
