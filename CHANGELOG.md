@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-22
+
+- refactor: restructure type inference module
+
 ## 2026-05-21
 
 - feat: add validation logic
