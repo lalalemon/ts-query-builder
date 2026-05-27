@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-27
+
+- refactor: restructure WHERE clauses module
+
 ## 2026-05-26
 
 - test: add initial test suite
