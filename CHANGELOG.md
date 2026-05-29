@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-29
+
+- feat: error handling for SELECT queries
+
 ## 2026-05-27
 
 - refactor: restructure WHERE clauses module
