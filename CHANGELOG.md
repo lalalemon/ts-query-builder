@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-31
+
+- fix: handle edge case in parameterized queries
+
 ## 2026-05-29
 
 - feat: error handling for SELECT queries
