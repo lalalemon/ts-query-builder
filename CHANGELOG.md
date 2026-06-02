@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-02
+
+- chore: add CI configuration
+
 ## 2026-05-31
 
 - fix: handle edge case in parameterized queries
