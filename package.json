@@ -1,0 +1,19 @@
+{
+  "name": "ts-query-builder",
+  "version": "1.0.0",
+  "description": "Type-safe SQL query builder for TypeScript with zero dependencies",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "npx tsx tests/builder.test.ts",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": ["sql", "query-builder", "typescript", "type-safe"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "tsx": "^4.7.0"
+  },
+  "files": ["dist"]
+}
