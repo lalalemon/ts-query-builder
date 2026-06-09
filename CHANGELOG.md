@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- feat: add batch queries
+
 ## 2026-06-05
 
 - test: add integration tests
