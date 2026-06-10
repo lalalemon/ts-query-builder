@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- feat: support JOIN support
+
 - feat: add batch queries
 
 ## 2026-06-05
